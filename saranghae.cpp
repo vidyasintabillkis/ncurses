@@ -6,7 +6,7 @@ int main (){
 	initscr();
 	
 	while (true){
-//		clear();
+		clear();
 				
 		mvprintw(5,9,"*");
 		refresh();
