@@ -1,4 +1,4 @@
-#include <ncurses/ncurses.h>
+#include <ncurses>
 #include <windows.h>
 
 using namespace std; 
